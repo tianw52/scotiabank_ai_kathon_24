@@ -14,14 +14,14 @@ In reviewing Scotiabank's mobile app customer reviews, you noted datasets contai
 
 Your team needs to use advanced analytics/AI approach to analyze customer app review to improve customer experience based on the given available data. Furthermore, you need to look for any insights from the data that can help you conduct business analysis to answer the following questions:
 
-• What are frequent and popular topics among Scotiabank mobile app review, can you identify the popularity of 20 topics among given topics from data dictionary, how did you arrive at the conclusion?
-• What are some of the customers' needs for Scotia mobile app? desired features, pain points?
-• If you are looking to build/fix one feature in Scotiabank mobile app to improve customer
+* What are frequent and popular topics among Scotiabank mobile app review, can you identify the popularity of 20 topics among given topics from data dictionary, how did you arrive at the conclusion?
+* What are some of the customers' needs for Scotia mobile app? desired features, pain points?
+* If you are looking to build/fix one feature in Scotiabank mobile app to improve customer
 experience what will that be?
-• Are there some external sources of customer reviews mixed with the data? Can you identify
+* Are there some external sources of customer reviews mixed with the data? Can you identify
 those “Easter egg” reviews and what are those reviews about?
-• Can you make any long-term suggestions to improve customer experience?
-• How did you arrive at the conclusions?
+* Can you make any long-term suggestions to improve customer experience?
+* How did you arrive at the conclusions?
 
 # The Data
 
