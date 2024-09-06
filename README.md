@@ -1,5 +1,5 @@
 # [2024 Scotiabank DS Discovery Days / AI-Kathon](https://uwaterloo.ca/statistics-and-actuarial-science/events/scotiabank-data-science-discovery-days-2024)
-## ⭐ Team Triangle of Statness (2nd Place) ⭐
+## ⭐ Team Triangle of Statness (2nd place winner) ⭐
 
 # Theme
 Using AI to derive business insights from customer feedback
